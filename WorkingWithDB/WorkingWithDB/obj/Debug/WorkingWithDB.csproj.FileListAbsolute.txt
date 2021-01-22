@@ -1,0 +1,10 @@
+C:\Users\Артем\source\repos\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe.config
+C:\Users\Артем\source\repos\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe
+C:\Users\Артем\source\repos\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.pdb
+C:\Users\Артем\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csprojAssemblyReference.cache
+C:\Users\Артем\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Form1.resources
+C:\Users\Артем\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Properties.Resources.resources
+C:\Users\Артем\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.GenerateResource.cache
+C:\Users\Артем\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.CoreCompileInputs.cache
+C:\Users\Артем\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.exe
+C:\Users\Артем\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.pdb
